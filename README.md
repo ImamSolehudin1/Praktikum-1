@@ -1,5 +1,5 @@
 # Praktikum-1
-# Mata Kuliah Bahasa Pemrograman
+# Mata Kuliah Bahasa Pemograman
 # Belajar Penggunaan PYTHON
 
 1. Pertama kita harus mendownload apliksi python terlebih dahulu. kita buka situs python.org, berikut adalah tampilan websitenya. 
