@@ -63,7 +63,7 @@ menjalankan program python.
 
 ![Gambar](screenshotpy/step15.png)
 
-Selanjutnya saya akan membuat contoh program penjumlahan. berikut langkah-langkahnya pembuatannya.
+Selanjutnya saya akan membuat contoh program penjumlahan dan pembagian bilangan bulat. berikut langkah-langkah pembuatan dan penjelasannya.
 
 1. Langkah pertama kita buka aplikasi IDLE python. Lalu klik new file.
 
